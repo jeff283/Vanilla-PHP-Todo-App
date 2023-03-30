@@ -37,3 +37,23 @@
 - The app has been tested throughly by my peers. 
 - Issues relating to the session management when pages were switched occured.
 - These issues have been solved and the app is able to meet all it functionality
+
+## App Demo
+
+#### Login Page
+
+![Login Page](res\demo-imgs\login-filled.png)
+#### Home Page
+
+![Login Page](res\demo-imgs\home-page.png)
+#### Create Task Page
+
+![Login Page](res\demo-imgs\create-task.png)
+#### Edit Page
+
+![Login Page](res\demo-imgs\edit.png)
+#### Wakatime Page
+This page shows the Wakatime dashboard of the hours put into this project
+
+![Login Page](res\demo-imgs\wakatime.png)
+
