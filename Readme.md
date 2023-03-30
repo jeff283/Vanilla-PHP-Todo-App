@@ -19,6 +19,12 @@
 - Open MySQL Admin Panel and create a database name **todo_db**. *You must use that as the database name*
 - On your browser enter the following link to access the app [http://localhost/todo-app](http://localhost/todo-app)
 
+## Populating the database
+
+- The folder at `./res/SQL` has sql files to populate tasks and users.
+- The file `todo_db.sql` in that folder will create the database that was used in development and testing.
+- PhpMyAdmin was used as the development environment for the database
+
 
 ## Usage
 
