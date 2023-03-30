@@ -42,18 +42,18 @@
 
 #### Login Page
 
-![Login Page](res\demo-imgs\login-filled.png)
+![Login Page](./res/demo-imgs/login-filled.png)
 #### Home Page
 
-![Login Page](res\demo-imgs\home-page.png)
+![Login Page](./res/demo-imgs/home-page.png)
 #### Create Task Page
 
-![Login Page](res\demo-imgs\create-task.png)
+![Login Page](./res/demo-imgs/create-task.png)
 #### Edit Page
 
-![Login Page](res\demo-imgs\edit.png)
+![Login Page](./res/demo-imgs/edit.png)
 #### Wakatime Page
 This page shows the Wakatime dashboard of the hours put into this project
 
-![Login Page](res\demo-imgs\wakatime.png)
+![Login Page](./res/demo-imgs/wakatime.png)
 
